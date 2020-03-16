@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week 4 - Guess the Button</string>
+    <string name="btn_startgame">Start Game</string>
+    <string name="btn_exitgame">Exit Game</string>
+    <string name="btn_1">One</string>
+    <string name="btn_2">Two</string>
+    <string name="btn_3">Three</string>
+</resources>

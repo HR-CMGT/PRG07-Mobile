@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week 4 - Raad de knop</string>
+    <string name="btn_startgame">Begin</string>
+    <string name="btn_exitgame">Einde</string>
+    <string name="btn_1">Een</string>
+    <string name="btn_2">Twee</string>
+    <string name="btn_3">Drie</string>
+</resources>
