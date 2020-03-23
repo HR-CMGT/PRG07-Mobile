@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Week6 Les Internet</string>
+    <string name="btn_fetchGroceryList">Get Grocerylist</string>
+</resources>
