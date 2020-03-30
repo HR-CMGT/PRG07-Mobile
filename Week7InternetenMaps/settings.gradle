@@ -1,0 +1,2 @@
+rootProject.name='Week 7 Internet en Maps'
+include ':app'

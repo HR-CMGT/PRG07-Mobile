@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week 6 HW Internet</string>
+    <string name="btn_search">Search</string>
+    <string name="unknown_character">Unknown</string>
+</resources>
