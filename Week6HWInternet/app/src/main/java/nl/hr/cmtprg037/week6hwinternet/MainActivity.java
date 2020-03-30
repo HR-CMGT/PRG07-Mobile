@@ -22,6 +22,7 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
 
     public final static String LOG_TAG = "week6hw";
+    public final static String BASE_URI = "https://swapi.co/api/people/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         EditText et = findViewById(R.id.editText_search);
         Log.d(LOG_TAG, et.getText().toString());
 
-        String uri = "https://swapi.co/api/people/" + et.getText().toString();
+        String uri = BASE_URI + et.getText().toString();
 
         Log.d(LOG_TAG, "Search api: " + uri);
 
